@@ -1,0 +1,60 @@
+{
+  "name": "gravebound",
+  "title": "Gravebound",
+  "description": "",
+  "author": "R20Converter",
+  "version": "0.9.11",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "1.0.0",
+  "packs": [
+    {
+      "name": "journal",
+      "label": "Handouts (Gravebound)",
+      "path": "packs/journal.db",
+      "module": "gravebound",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "actors",
+      "label": "Actors (Gravebound)",
+      "path": "packs/actors.db",
+      "module": "gravebound",
+      "entity": "Actor"
+    },
+    {
+      "name": "items",
+      "label": "Items (Gravebound)",
+      "path": "packs/items.db",
+      "module": "gravebound",
+      "entity": "Item"
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes (Gravebound)",
+      "path": "packs/scenes.db",
+      "module": "gravebound",
+      "entity": "Scene"
+    },
+    {
+      "name": "tables",
+      "label": "Rollable Tables (Gravebound)",
+      "path": "packs/tables.db",
+      "module": "gravebound",
+      "entity": "RollTable"
+    },
+    {
+      "name": "decks",
+      "label": "Decks (Gravebound)",
+      "path": "packs/decks.db",
+      "module": "gravebound",
+      "entity": "RollTable"
+    },
+    {
+      "name": "cards",
+      "label": "Deck Cards (Gravebound)",
+      "path": "packs/cards.db",
+      "module": "gravebound",
+      "entity": "Item"
+    }
+  ]
+}
