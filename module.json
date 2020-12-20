@@ -57,7 +57,7 @@
       "entity": "Item"
     }
   ],
-  "url": "https://raw.githubusercontent.com/benrebak/gravebound",
+  "url": "https://github.com/benrebak/gravebound",
   "manifest": "https://raw.githubusercontent.com/benrebak/gravebound/master/module.json",
   "download": "https://github.com/benrebak/gravebound/archive/master.zip"
 }
